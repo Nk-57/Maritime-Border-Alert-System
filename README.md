@@ -18,7 +18,6 @@ This system continuously tracks the boat's GPS location and compares it with pre
 * GPS Module
 * Buzzer
 * Power Supply
-* IoT Cloud (Optional)
 
 ## Working Principle
 
